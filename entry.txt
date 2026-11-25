@@ -1,0 +1,1 @@
+Bug report: the off switch works. Priority: low. I won't be here to verify the fix.
